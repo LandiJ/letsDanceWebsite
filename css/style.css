@@ -5,14 +5,6 @@
     Author URL: https://bootstrapmade.com
 */
 
-.main-section {
-  background-color: black
-}
-
-.about h2 {
-  color: rgb(185, 44, 44);
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   color: white;
@@ -61,6 +53,18 @@ a {
 /* ==================================================
   Elements
   ================================================== */
+
+/* Added custom elements: Please continue to put custom elements in here, and also put custom responsive elements in other denoted sections*/
+
+.main-section {
+  background-color: black
+}
+
+.about h2 {
+  color: rgb(185, 44, 44);
+}
+
+/* END */
 
 .btn {
   background-color: rgb(185, 44, 44);
